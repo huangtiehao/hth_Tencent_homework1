@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7C62C911-4A4A-2AE1-094F-99BF030E581D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "hthTXhomework1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
